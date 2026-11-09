@@ -2,7 +2,7 @@
 
 Stand / Last updated: 9 November 2026
 
-Kontakt / Contact: **[E-MAIL-ADRESSE EINTRAGEN / ADD EMAIL ADDRESS]**
+Kontakt / Contact: nicoprelease@proton.me
 
 ## Deutsch
 

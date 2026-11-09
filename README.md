@@ -1,4 +1,4 @@
-# Tank Level Indicator
+# Tank Level Calculator
 
 Android-App, die aus der gemessenen Füllhöhe den Inhalt eines Tanks berechnet, mit Schwerpunkt auf Heizöl.
 

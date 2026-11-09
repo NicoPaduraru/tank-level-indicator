@@ -21,11 +21,11 @@ Vor jedem weiteren Upload `versionCode` in `app/build.gradle.kts` erhöhen und `
 
 | Feld | Eingabe |
 |---|---|
-| App-Name | Tank Level Indicator |
+| App-Name | Tank Level Calculator |
 | Standardsprache | English (United States) – en-US |
 | App oder Spiel | App |
 | Kostenlos oder kostenpflichtig | Kostenlos |
-| Paketname | `de.tanklevelindicator` (nach dem ersten Upload nicht mehr änderbar) |
+| Paketname | `de.tanklevelcalculator` (nach dem ersten Upload nicht mehr änderbar) |
 
 ## Store-Eintrag
 
@@ -37,7 +37,7 @@ Kontakt-E-Mail: `nicoprelease@proton.me`
 **App name**
 
 ```text
-Tank Level Indicator
+Tank Level Calculator
 ```
 
 **Short description**
@@ -49,7 +49,7 @@ Calculate tank contents from the fill height, offline and without tracking.
 **Full description**
 
 ```text
-Tank Level Indicator estimates the contents of your tank from the measured fill height, with a focus on heating oil.
+Tank Level Calculator estimates the contents of your tank from the measured fill height, with a focus on heating oil.
 
 Choose a cellar tank, a vertical or horizontal cylinder, or a spherical tank. Enter the tank data or pick a standard DIN size. The app shows the contents, fill level, and the amount up to your adjustable fill limit.
 
@@ -71,7 +71,7 @@ Values are calculated estimates for a rough check and are not intended for billi
 **App-Name**
 
 ```text
-Tank Level Indicator
+Tank Level Calculator
 ```
 
 **Kurzbeschreibung**
@@ -83,7 +83,7 @@ Tankinhalt aus der Füllhöhe berechnen, offline und ohne Datensammlung.
 **Vollständige Beschreibung**
 
 ```text
-Tank Level Indicator berechnet aus der gemessenen Füllhöhe den ungefähren Inhalt deines Tanks, mit Schwerpunkt auf Heizöl.
+Tank Level Calculator berechnet aus der gemessenen Füllhöhe den ungefähren Inhalt deines Tanks, mit Schwerpunkt auf Heizöl.
 
 Wähle Kellertank, stehenden oder liegenden Zylinder oder Kugeltank. Gib die Tankdaten ein oder wähle eine genormte DIN-Größe. Die App zeigt Inhalt, Füllstand und die Menge bis zur einstellbaren Füllgrenze.
 
@@ -124,10 +124,10 @@ Die Einstufung fragt ausserdem nach einer E-Mail-Adresse: `nicoprelease@proton.m
 
 ```text
 <en-US>
-First release of Tank Level Indicator.
+First release of Tank Level Calculator.
 </en-US>
 <de-DE>
-Erste Version von Tank Level Indicator.
+Erste Version von Tank Level Calculator.
 </de-DE>
 ```
 

@@ -18,7 +18,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "de.tanklevelindicator"
+        applicationId = "de.tanklevelcalculator"
         minSdk = 26
         targetSdk = 37
         versionCode = 1

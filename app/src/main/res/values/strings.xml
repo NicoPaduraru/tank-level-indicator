@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name" translatable="false">Tank Level Indicator</string>
+    <string name="app_name" translatable="false">Tank Level Calculator</string>
     <string name="my_tanks">My tanks</string>
     <string name="no_tanks">No tank saved yet.</string>
     <string name="new_tank">New tank</string>
